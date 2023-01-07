@@ -63,10 +63,12 @@ function CanDo() {
                 <div className="padding-top">
                     <h2 className="center">Web App Projects</h2>
                     <div className="portfolio max-width">
-                        <Portfolio src="images/todo.png" href="https://need-to-do-list-react.azurewebsites.net" GitHub="https://github.com/nickcode95/todolist" />
-                        <Portfolio src="images/emojipedia.png" href="https://emojipedia.azurewebsites.net" GitHub="https://github.com/nickcode95/Emoji-Dictionary" />
-                        <Portfolio src="images/programmerjokes.png" href="https://programmerjokes.azurewebsites.net" />
+                        <Portfolio src="images/image2text.png" href="https://iamgetotext-react.azurewebsites.net" GitHub="https://github.com/nickcode95/azure-optical-character-recognition-react"/>
+                        <Portfolio src="images/todo.png" href="https://todolist-react.azurewebsites.net" GitHub="https://github.com/nickcode95/todolist" />
+                        <Portfolio src="images/emojipedia.png" href="https://emoji-pedia.azurewebsites.net" GitHub="https://github.com/nickcode95/Emoji-Dictionary" />
+                        <Portfolio src="images/programmerjokes.png" href="https://pjokes.azurewebsites.net" />
                     </div>
+                    <div className="padding-top"></div>
                 </div>
 
             </div>

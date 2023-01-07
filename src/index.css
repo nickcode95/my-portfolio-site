@@ -1,6 +1,8 @@
 body {
   margin: 0;
   font-family: Sans-Serif;
+  background-color: rgba(44, 45, 48, 0.979);
+  color: white;
 }
 
 a {
@@ -34,7 +36,7 @@ small {
 
 
 .top-content {
-  background-color: #D3EBCD;
+  background-color: #232423;
   text-align: center;
   height: 10%;
   max-height: 100%;
@@ -45,15 +47,9 @@ small {
 }
 
 #avatar1 {
-  float: left;
   border-radius: 50%;
   width: 10vw;
-  display: inline;
-  margin-left: 10%;
-  top: 115%;
-  right: 80%;
-  vertical-align: bottom;
-  position: absolute;
+  margin-top: 2vw;
 }
 
 #avatar2 {
@@ -121,8 +117,10 @@ small {
 }
 
 .icons {
-  height: 75px; 
-  width: 110px;;
+  height: 30px; 
+  width: 40px;
+  padding-left: 2%;
+  
 }
 /* 
 #azure {
@@ -132,7 +130,7 @@ small {
 
 #node {
   height: 60%;
-  padding-top: 3vw;
+  padding-top: 2.5vw;
 }
 
 #css {
@@ -145,9 +143,12 @@ small {
 
 .portfolio {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   padding: 0 2%;
 }
+
+
 
 .center {
   text-align: center;
@@ -179,9 +180,6 @@ footer {
   text-align: center;
 }
 
-#linkedIn {
-  height: 3em;
-}
 
 .justify-content {
   display: flex;
@@ -196,13 +194,13 @@ footer {
 }
 
 
-
-.flex-children {
- 
+.green {
+  background-color: #232423;
+  color: white;
 }
 
-.green {
-  background-color: #D3EBCD;
+.green a {
+  color: white;
 }
 
 .mobile-skills {

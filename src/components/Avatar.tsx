@@ -5,9 +5,8 @@ function Avatar() {
         <div className="center">
             <img id="avatar1" src="images/AvatarMaker.png" alt="avatar"></img>
             <div className="middle padding-top">
-                <div className="padding-top"></div>
                 <h1>Hi</h1>
-                <p>Welcome to my Portfolio Page!</p>
+                <p>I'm a certified Microsoft Azure Artifical Intellgience engineer and front end developer.</p>
                 <p>On this page, you'll find some of my projects built in React, EJS and hosted on Microsoft Azure Cloud with App Service.</p>
                 <p>I have been in tech for over four years' and have spent the last two years at Microsoft as an Azure Specialist. <br /><br /> My guidance to customers on Public Cloud architecture has
                     been directly responsible for over USD$4 million in revenue for Microsoft, and I have helped companies prevent over $1 million in daily losses from failing IT infrastructure.

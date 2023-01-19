@@ -55,18 +55,19 @@ function CanDo() {
                 <div className="padding-top">
                     <h2 className="center">Website Projects</h2>
                     <div className="portfolio max-width">
-                        <Portfolio src="images/flexthinking.png" href="https://flexible-thinking.azurewebsites.net/" />
-                        <Portfolio src="images/calendafy.png" href="https://calendafy.com" GitHub="https://github.com/nickcode95/Calendafy-Website" />
-                        <Portfolio src="images/blog.png" href="https://cookingwithnicko.com/recipes" />
+                        <Portfolio src="images/flexthinking.png" href="https://flexible-thinking.azurewebsites.net/" description="Website built for healthcare client using EJS"/>
+                        <Portfolio src="images/calendafy.png" href="https://calendafy.com" GitHub="https://github.com/nickcode95/Calendafy-Website" description="Website built for software start up using Hubspot CMS"/>
+                        <Portfolio src="images/blog.png" href="https://cookingwithnicko.com/recipes" description="My cooking blog built with EJS"/>
                     </div>
                 </div>
                 <div className="padding-top">
                     <h2 className="center">Web App Projects</h2>
                     <div className="portfolio max-width">
-                        <Portfolio src="images/image2text.png" href="https://iamgetotext-react.azurewebsites.net" GitHub="https://github.com/nickcode95/azure-optical-character-recognition-react"/>
-                        <Portfolio src="images/todo.png" href="https://todolist-react.azurewebsites.net" GitHub="https://github.com/nickcode95/todolist" />
-                        <Portfolio src="images/emojipedia.png" href="https://emoji-pedia.azurewebsites.net" GitHub="https://github.com/nickcode95/Emoji-Dictionary" />
-                        <Portfolio src="images/programmerjokes.png" href="https://pjokes.azurewebsites.net" />
+                        <Portfolio src="images/image2text.png" href="https://iamgetotext-react.azurewebsites.net" GitHub="https://github.com/nickcode95/azure-optical-character-recognition-react" description="Using the optical character recognition AI API from Azure to extract text from images"/>
+                        <Portfolio src="images/todo.png" href="https://todolist-react.azurewebsites.net" GitHub="https://github.com/nickcode95/todolist" description="To-do-list built with React"/>
+                        <Portfolio src="images/emojipedia.png" href="https://emoji-pedia.azurewebsites.net" GitHub="https://github.com/nickcode95/Emoji-Dictionary" description="Emoji dictionary built with React" />
+                        <Portfolio src="images/programmerjokes.png" href="https://pjokes.azurewebsites.net" description="Programmer jokes built with React"/>
+                        <Portfolio src="images/202020.png" href="https://chrome.google.com/webstore/detail/202020-vision/nihcdipklbajcffbhnbnbgbdmkhmhpgk?hl=en-GB&authuser=0" description="A Chrome extension that helps users take a break from their screen" />
                     </div>
                     <div className="padding-top"></div>
                 </div>

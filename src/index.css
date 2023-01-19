@@ -122,11 +122,7 @@ small {
   padding-left: 2%;
   
 }
-/* 
-#azure {
-  width: 15%;
-  height: 8vw;
-} */
+
 
 #node {
   height: 60%;
@@ -146,9 +142,12 @@ small {
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 0 2%;
+  word-wrap: break-word;
 }
 
-
+.seeLiveSitePadding {
+  padding-top: 1vw;
+}
 
 .center {
   text-align: center;
@@ -160,6 +159,14 @@ small {
 
 .max-width{
   max-width: 100%;
+}
+
+.width {
+  width: 28%;
+}
+
+.bold {
+  font-weight: bold;
 }
 
 .display-block {
@@ -174,6 +181,7 @@ small {
 .overflow {
   overflow: hidden;
 }
+
 
 footer {
   background-color:  #D3EBCD;
